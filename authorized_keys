@@ -1,0 +1,12 @@
+# Important
+# ---------
+# The following public key is required by Cloud9 IDE
+# Removing this key will make this EC2 instance inaccessible by the IDE
+#
+cert-authority ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCXn25CV3lYH7pu+3mRH59ewVvH86qV8/1sY6iLKrWCU5lzVVE2W5mXUEFFBpW6HAXTTK7vKScY2fMoQk0j4woLQ6632+hgjg5ZTfUWzpJJ6nfoL6hkqye0BmdIwzZoi2GFdt88kjuBNk1hQkVMmXeu/On/Le4Tcq6zRf88qoXD1yO6Eg/CbBLcam8Gw6LeTm0lzQjyBfYnM3T7yf1yH/bBydH8LHzrmQrRl6hdyRVyu/BJ9wrX+261Hryr4GsFjRwsO6tnTWYFHpxrHMxAtRVLJOgjN7nDWnZrJ8MwiWSlYIrDw3aL3QWRMJSb3Tbol1+Vpa2YJbM2U48QryU1Wn/8ec5oPN5iDpfsPx+aJ4Urec4Xn7QPbr0P8dZxQm1QNUJozUF9ARbbv6ckBB+kiL0tCbKBkM0vSG85Gzkj/YjbPW0XM5e8A3RHG/UL4CjOOT6WdlPe3e84ArJdLSu7XG1qUu1zV9WqrzElEj95OSy9yA/dtPMPmxOTVWOey8NW6Qh8uRQHIxJsrkyOyAHHq0tsUO21Qi1i9CmcuHHTADTn4PRguiXkBIPbPWtvNUmj8BwuPJ0WMvcni86x1OaxkdEOcqwqyvsE8ZIzSRNHZKXEF7GCopPWt115xMigq9TMYfU9Rw0z+yPri1zCt4x/1igjzH4efxAozqkgV2stDeOaEQ== f086b53b999145ad894d6835f50e9b80@cloud9.amazon.com
+
+
+#
+# Add any additional keys below this line
+#
+
